@@ -38,7 +38,9 @@ Future Enhancements
 ✅ Keyboard-aware Scrolling
 ✅ Shadow Effects and elevation
 ✅ Color-coded Status Indicators
-📸 Screenshots
+
+
+
 [Register Screen]     [Login Screen]       [Home Dashboard]
 ┌─────────────────┐   ┌─────────────────┐   ┌─────────────────┐
 │  Create Account │   │  Welcome Back!  │   │ Welcome Back!   │
